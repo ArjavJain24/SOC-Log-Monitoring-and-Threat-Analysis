@@ -1,7 +1,7 @@
 import re
 from collections import Counter
 
-LOG_FILE = "../logs/sample_auth.log"
+LOG_FILE = "C:\\Users\\pawan\\Downloads\\sample_auth.log"
 
 failed_logins = []
 ip_addresses = []
@@ -20,4 +20,5 @@ ip_count = Counter(ip_addresses)
 print("\nTop Suspicious IPs:")
 for ip, count in ip_count.items():
     if count > 2:
+
         print(f"{ip} -> {count} attempts")
