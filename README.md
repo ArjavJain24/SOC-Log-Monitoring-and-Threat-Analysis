@@ -40,25 +40,19 @@ SOC-Log-Monitoring-and-Threat-Analysis/
 
 │
 ├── logs/
-
 │   └── sample_auth.log
-
 │
 ├── scripts/
-
 │   └── log_analyzer.py
-
 │
 ├── reports/
-
 │   └── incident_report.txt
-
 │
 └──  README.md
 
 ---
 
-📊 Sample Output
+## 📊 Sample Output
 Total Failed Login Attempts: 3
 192.168.1.10 -> Suspicious Activity Detected
 
