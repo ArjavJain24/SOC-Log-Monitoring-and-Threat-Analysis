@@ -54,6 +54,7 @@ SOC-Log-Monitoring-and-Threat-Analysis/
 
 ## 📊 Sample Output
 Total Failed Login Attempts: 3
+
 192.168.1.10 -> Suspicious Activity Detected
 
 ---
