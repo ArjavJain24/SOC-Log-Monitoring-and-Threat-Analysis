@@ -9,6 +9,8 @@ It demonstrates how SOC analysts monitor logs, classify incidents, and identify 
 
 <img width="617" height="408" alt="Screenshot 2026-01-06 161101" src="https://github.com/user-attachments/assets/d100d442-c035-42cb-b354-4549b79d829d" />
 
+---
+
 ## 🎯 Objectives
 - Detect failed login attempts from system logs
 - Identify suspicious IP addresses based on repeated failures
@@ -35,19 +37,30 @@ It demonstrates how SOC analysts monitor logs, classify incidents, and identify 
 
 ## 📂 Project Structure
 SOC-Log-Monitoring-and-Threat-Analysis/
+
 │
 ├── logs/
+
 │   └── sample_auth.log
+
 │
 ├── scripts/
+
 │   └── log_analyzer.py
+
 │
 ├── reports/
+
 │   └── incident_report.txt
+
 │
 └──  README.md
 
+---
 
+📊 Sample Output
+Total Failed Login Attempts: 3
+192.168.1.10 -> Suspicious Activity Detected
 
 ---
 
