@@ -35,6 +35,13 @@ It demonstrates how SOC analysts monitor logs, classify incidents, and identify 
 
 ---
 
+## 📌 Future Improvements
+- Integrate with ELK Stack
+- Severity-based alert scoring
+- Email alert automation
+
+---
+
 ## 📂 Project Structure
 SOC-Log-Monitoring-and-Threat-Analysis/
 
