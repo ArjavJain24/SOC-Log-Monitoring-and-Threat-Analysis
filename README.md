@@ -1,5 +1,3 @@
-# SOC-Log-Monitoring-and-Threat-Analysis
-
 # SOC Log Monitoring & Threat Analysis
 
 ## 📌 Overview
