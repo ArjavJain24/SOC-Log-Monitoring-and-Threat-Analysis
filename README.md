@@ -35,10 +35,18 @@ It demonstrates how SOC analysts monitor logs, classify incidents, and identify 
 
 ## 📂 Project Structure
 SOC-Log-Monitoring-and-Threat-Analysis/
+│
 ├── logs/
+│   └── sample_auth.log
+│
 ├── scripts/
+│   └── log_analyzer.py
+│
 ├── reports/
-└── README.md
+│   └── incident_report.txt
+│
+└──  README.md
+
 
 ---
 
